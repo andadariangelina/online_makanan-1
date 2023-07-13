@@ -1,4 +1,4 @@
-# makananOnline-project
+# Online_makanan-project
 Repository diatas merupakan program Java yang menjelaskan mensimulasikan sistem manajemen restaurant. Ini memiliki login admin yang memungkinkan Anda menambah dan menghapus restoran  dan ID pelanggan yang memungkinkan Anda memesan dan melihat riwayat pesanan Anda. Program menggunakan kategori untuk merepresentasikan restaurant, menu, dan pesanan, dan untuk menyimpan informasi dalam daftar. 
 
 Program diatas menggunakan beberapa class:
